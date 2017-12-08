@@ -3,7 +3,7 @@
 bin/
 *.class
 *.dll
-
+*.project
 *.o
 *.so
 
