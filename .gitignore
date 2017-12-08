@@ -1,6 +1,6 @@
 # Compiled source #
 ###################
-bin/*
+bin/
 *.class
 *.dll
 
